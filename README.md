@@ -1,5 +1,5 @@
-Vesting Token
-
+TokenVest: 
+_Bridging Organizations and Stakeholders through a Token Vesting DApp_
 ## Table of Contents
 
 - [Table of Contents](#table-of-contents)
